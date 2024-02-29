@@ -4,37 +4,71 @@
       "id": 2,
       "conteudo": "Que bom que você veio 2",
       "autoria": "Leandro",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "Que bom que você veio edição",
       "autoria": "Lais",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "Que bom que você veio 4",
       "autoria": "Leandro",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 5,
       "conteudo": "Que bom que você veio 5",
       "autoria": "Leandro",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 6,
       "conteudo": "Nossa que legal estou estudando angular e ingles e tenho uma entrevista na sexta",
       "autoria": "Leandro Pedroso",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 7,
       "conteudo": "Teste ID, será q ele gera o id automaticamente?",
       "autoria": "Leandro",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "conteudo": "Nossa que legal estou aprendendo muitas coisas",
+      "autoria": "Lais",
+      "modelo": "modelo2",
+      "id": 8,
+      "favorito": false
+    },
+    {
+      "conteudo": "Le, fica de olho na cacau com o potinho novo",
+      "autoria": "Lais",
+      "modelo": "modelo3",
+      "id": 9,
+      "favorito": false
+    },
+    {
+      "conteudo": "Não vejo a hora de pegar o carro e colocar o cheirinho novo que comprei",
+      "autoria": "Leandro",
+      "modelo": "modelo2",
+      "id": 10,
+      "favorito": false
+    },
+    {
+      "conteudo": "Estou com saudades da minha familia, ainda bem q vou para itupeva",
+      "autoria": "Leandro",
+      "modelo": "modelo1",
+      "id": 11,
+      "favorito": false
     }
   ]
 }
