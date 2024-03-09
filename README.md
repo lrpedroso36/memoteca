@@ -1,31 +1,21 @@
-# Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+## Angular 14: Desenvolva seu primeiro CRUD e evolua sua aplicação 
 
-Projeto destinado nos cursos:
 
-Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
 
-Angular 14: evoluindo a aplicação
 
-Descrição do conteúdo:
+Este repositório contém o material para o curso "Angular 14: Desenvolva seu primeiro CRUD e evolua sua aplicação". Aqui você encontrará informações sobre como utilizar o Angular CLI, compreender a estrutura de componentes em Angular, aplicar diferentes tipos de vinculação de dados, utilizar diretivas importantes do Angular, navegar dinamicamente entre componentes com rotas, realizar injeção de dependências, implementar requisições HTTP para desenvolver um CRUD, construir formulários reativos e aplicar validações usando a classe Validators.
 
-Utilizar a ferramenta Angular CLI para criar um projeto e diversos tipos de arquivos
 
-Entender a estrutura de um componente em Angular
+## Conteúdo do Curso
 
-Aprender como usar property binding, interpolação, event binding e two-way data binding
-
-Conheçer algumas das principais diretivas do Angular
-
-Adicionar navegação dinâmica entre componentes através das rotas
-
-Apliquecar injeção de dependências na aplicação
-
-Realizar requisições HTTP através da classe HttpClient e desenvolva um CRUD
-
-Aprenda a construir formulários reativos
-
-Aplique validações no formulário através da classe Validators
-
+- Utilização do Angular CLI para criação de projetos e tipos de arquivos
+- Estrutura de um componente em Angular
+- Property binding, interpolação, event binding e two-way data binding
+- Principais diretivas do Angular
+- Navegação dinâmica entre componentes com rotas
+- Injeção de dependências na aplicação
+- Requisições HTTP com HttpClient e desenvolvimento de um CRUD
+- Construção de formulários reativos
+- Aplicação de validações de formulário com Validators
 
